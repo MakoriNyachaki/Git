@@ -69,11 +69,11 @@ All this is done in your commandline.
 
  * Configuring your username
 
-	git config --global user.name "Your name"
+		git config --global user.name "Your name"
 
  * Configuring your email
 
-	git config --global user.email "Your Email"
+		git config --global user.email "Your Email"
 
 **_Note:_** The _global_ is used to set the username and email for every repository in your account.
 Otherwise you can remove _global_ flag to set a username and email for each repo each time you use it.
